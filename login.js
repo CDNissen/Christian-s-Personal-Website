@@ -1,10 +1,3 @@
-
-javaScript.txt
-Page
-1
-/
-1
-100%
 const gameText = document.getElementById('game-text2');
 const userInput = document.getElementById('user-input2');
 const submitBtn = document.getElementById('submit-btn2');
@@ -70,4 +63,3 @@ submitBtn.addEventListener("click", async () => {
 
 // Start text
 print("Log-in Page \n\nWelcome! Please enter your username:");
-Displaying javaScript.txt.
